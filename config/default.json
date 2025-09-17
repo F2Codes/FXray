@@ -1,0 +1,7 @@
+
+{
+    "install_path": "/usr/local/bin",
+    "fxray_version": "latest",
+    "geo_file_url": "https://example.com/fxray/geo.dat",
+    "xray_config_path": "/usr/local/bin/config.json"
+}
